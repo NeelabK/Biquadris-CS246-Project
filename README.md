@@ -32,3 +32,12 @@ A UML diagram of the project architecture is included below.
 ## Technologies
 
 C++ • Object-Oriented Programming • X11 / XWindows • Make
+
+
+## Contributors
+
+This project was completed as a team for CS 246 at the University of Waterloo.
+
+- Neelab 
+- https://github.com/Christine-Martins
+- https://github.com/cduring
